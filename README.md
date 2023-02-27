@@ -12,4 +12,5 @@
 | Net   | Realtek RTL8111 + BCM94352z(*)         |
 | Disk  | HP EX950-512G                          |
 
-* 无线网卡由RTL8822BE更换为BCM94352z
+* 无线网卡不可驱动，故由RTL8822BE更换为BCM94352z
+* 独立显卡无法驱动，故HDMI/miniDP接口不可用
